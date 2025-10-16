@@ -16,11 +16,11 @@ Even on busy days, I solve at least one problem to keep my streak alive — *No 
 
 ## 📂 Folder Structure
 coding-practice/
-├── leetcode/      →  All LeetCode solutions
-├── codewars/      →  Codewars kata solutions
-├── hackerrank/    →  HackerRank challenges
-├── notes/         →  Reflections, ideas, summaries
-└── tools/         →  Utility scripts (problem generator, quick push)
+leetcode/      →  All LeetCode solutions
+codewars/      →  Codewars kata solutions
+hackerrank/    →  HackerRank challenges
+notes/         →  Reflections, ideas, summaries
+tools/         →  Utility scripts (problem generator, quick push)
 
 ---
 
