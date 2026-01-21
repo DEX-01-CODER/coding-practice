@@ -1,4 +1,3 @@
-# Date: 2025-10-17
 # Platform: Codewars
 # Problem: Diagonals Sum (7 kyu)
 # Link: https://www.codewars.com/kata/diagonals-sum
